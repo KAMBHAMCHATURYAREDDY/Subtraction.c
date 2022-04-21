@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+int a,b;
+scanf("%f%f",&a,&b);
+sub = a-b;
+printf("%f",sub)
+return 0;
+}
